@@ -4,7 +4,7 @@
 
 Tips Tech es una red social en donde podrás encontrar y compartir tips de ofertas en productos tecnológicos que ofrece el mercado hoy en día a través de internet.
 
-Para visitar la página [Haz click aquí]()
+Para visitar la página [Haz click aquí](https://tipstech-c6fe7.firebaseapp.com/#/Inicio)
 
 ## Índice
 
@@ -39,7 +39,7 @@ Se realizó una encuesta entre los usuarios para determinar el área en la cuál
 
 ![encuestas](./src/img/encuestas.jpeg "encuestas")
 
-El 62% de nuestros encuestados optó por acceder a ofertas acerca de los productos tecnologicos y en base a estos resultados creamos las siguientes historias de usuario:
+El 62% de nuestros encuestados optó por acceder a ofertas acerca de los productos tecnológicos y en base a estos resultados creamos las siguientes historias de usuario:
 
 
 #### Historias de usuario
