@@ -35,6 +35,13 @@ Los usuarios hoy en día por distintos factores, como por ejemplo el tiempo libr
 
 A raíz de la necesidad que hemos descubierto, es que nace la idea de crear una página web en la cuál los usuarios puedan acceder a crear un perfil en el que pueden compartir con otras personas todo tipo de oferta en productos tecnológicos como accesorios, computación, videojuegos, etc. Y así a su vez compartir datos donde pueden encontrar la mejor opción para cada uno, sin usar su tiempo libre recorriendo la ciudad buscando ofertas.
 
+Se realizó una encuesta entre los usuarios para determinar el área en la cuál basar nuestro proyecto y nos arrojó el siguiente resultado:
+
+![encuestas](./src/img/encuestas.jpeg "encuestas")
+
+El 62% de nuestros encuestados optó por acceder a ofertas acerca de los productos tecnologicos y en base a estos resultados creamos las siguientes historias de usuario:
+
+
 #### Historias de usuario
 
 H.U. 1- Yo como usuario de TipsTech quiero crearme una cuenta para ingresar a la página web.
