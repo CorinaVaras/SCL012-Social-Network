@@ -383,6 +383,9 @@ footer p{
         width: 280px;
         left: -7%;
     }
+    .inputPost{
+        width: 200px;
+    }
     .tips-font{
         font-size: 12px;
     }
